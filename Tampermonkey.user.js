@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         כפתור צאט מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  הזרקת לחצן צ'אט מהיר ליד כל פוסט בפורומי NodeBB והדבקת קישור הפוסט אוטומטית
+// @version      1.1
+// @description  הזרקת לחצן צ'אט מהיר ליד כל פוסט בפורום מתמחים.טופ והדבקת קישור הפוסט אוטומטית
 // @author       צדיק וטוב לו וההודי של gemini
 // @match        https://mitmachim.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/main/Tampermonkey.user.js
