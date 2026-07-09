@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         כפתור צאט מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  הזרקת לחצן צ'אט מהיר ליד כל פוסט בפורום מתמחים.טופ והדבקת קישור הפוסט אוטומטית
 // @author       צדיק וטוב לו וההודי של gemini
 // @match        https://mitmachim.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/main/Tampermonkey.user.js
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=mitmachim.top
 // @grant        unsafeWindow
 // @run-at       document-end
 // ==/UserScript==
