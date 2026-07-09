@@ -1,6 +1,6 @@
 # Mitmachim-QuickChat-Linker
 
-הזרקת כפתור לצאט ישיר בפוסטים של [פורום מתמחים.טופ](https://mitmachim.top/).
+סקריפט Tampermonkey להזרקת כפתור לצאט ישיר בפוסטים של [פורום מתמחים.טופ](https://mitmachim.top/).
 
 נוצר בסיוע צמוד של [gemini](https//gemini.google.com/app).
 
