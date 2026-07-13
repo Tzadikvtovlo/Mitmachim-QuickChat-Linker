@@ -1,5 +1,9 @@
 # Mitmachim-QuickChat-Linker
 
+להתקנה לחץ:
+
+https://github.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/raw/refs/heads/main/Tampermonkey.user.js
+
 סקריפט Tampermonkey להזרקת כפתור לצאט ישיר בפוסטים של [פורום מתמחים.טופ](https://mitmachim.top/).
 
 החל מגירסה 2.0, הסקריפט מוסיף תמיכה בתצוגה מקדימה בתוך הצאט לקישורים לפוסטים מהפורום, או מ[פורום אוצריא](https://otzaria.org/forum).
