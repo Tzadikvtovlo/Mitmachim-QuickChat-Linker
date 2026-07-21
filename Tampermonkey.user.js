@@ -326,7 +326,7 @@
                 saveBtn.innerHTML = `<i class="fa fa-fw ${isSaved ? 'fa-solid' : 'fa-regular'} fa-clock" style="pointer-events: none;"></i>`;
             }
 
-            // כפתור העתקת קישור עם הפיכה לאייקון מלא למשך 10 שניות
+            // כפתור העתקת קישור עם הפיכה לאייקון מלא למשך 5 שניות
             let copyBtn = customToolsWrapper.querySelector('.custom-copy-link-btn');
             if (!copyBtn && pid) {
                 copyBtn = document.createElement('button');
@@ -347,7 +347,7 @@
                         clearTimeout(copyTimer);
                         copyTimer = setTimeout(() => {
                             icon.classList.replace('fa-solid', 'fa-regular');
-                        }, 10000); // 10 שניות
+                        }, 5000); // 5 שניות
                     }
                 });
                 customToolsWrapper.appendChild(copyBtn);
