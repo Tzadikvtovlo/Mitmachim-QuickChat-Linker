@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         כפתורי צאט, העתקה, ושמירה להמשך בפורום מתמחים.טופ
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  הזרקת לחצן צ'אט מהיר ליד כל פוסט בפורום מתמחים.טופ והדבקת קישור הפוסט אוטומטית, הזרקת כפתורי העתקת קישור וקריאה בהמשך, והוספת רשימת קריאה בסרגל הצד, כולל תמיכה בקישורי נושאים.
 // @author       צדיק וטוב לו וההודי של gemini נטפרי
 // @match        https://mitmachim.top/*
 // @updateURL    https://raw.githubusercontent.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/main/Tampermonkey.user.js
 // @downloadURL  https://raw.githubusercontent.com/Tzadikvtovlo/Mitmachim-QuickChat-Linker/main/Tampermonkey.user.js
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=mitmachim.top
+// @icon         https://www.google.com/s2/favicons?sz=256&domain=mitmachim.top
 // @grant        unsafeWindow
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
